@@ -1,4 +1,4 @@
-![Centro Universitário IESB]("https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/iesb.png?itok=Ddnx4fuy")
+![Centro Universitário IESB](image.png)
 
 # Projeto Eda - Chatbot
 
