@@ -1,54 +1,34 @@
-# Requisitos Não Funcionais
 
-## 1. Desempenho:
+## **REQUISITOS FUNCIONAIS**
 
-### 1.1
-O sistema de suporte humano deve processar o redirecionamento em tempo hábil, garantindo uma transição suave entre o chatbot e o suporte humano.
+Requisitos Funcionais para o sistema de suporte humano:
 
-### 1.2
-As notificações para atendentes devem ser entregues em tempo real, garantindo uma resposta rápida às solicitações de redirecionamento.
+**1. Aprimoramento da Experiência do Usuário:** 
 
-## 2. Usabilidade:
+**1.1** Após cada interação com o chatbot, o sistema deve adicionar automaticamente uma pergunta ao final da resposta, solicitando feedback do usuário sobre a satisfação com a assistência recebida. 
 
-### 2.1
-A interface do atendente do suporte humano deve ser intuitiva e fácil de usar, promovendo eficiência no acesso ao histórico da conversa e na resposta ao usuário.
+**1.2** Em caso de feedback negativo, o chatbot deve oferecer ao usuário a opção de ser redirecionado para o suporte humano. O usuário deve poder aceitar ou recusar esse redirecionamento.
 
-### 2.2
-O histórico da conversa deve ser apresentado de maneira clara e organizada, facilitando a compreensão e a análise rápida das interações anteriores.
+**2. Notificação para Atendentes:**
 
-## 3. Confiabilidade:
+**2.1** Quando um usuário aceitar o redirecionamento para o suporte humano, o sistema deve notificar um atendente do suporte sobre a necessidade de assistência.
 
-### 3.1
-O sistema deve ser altamente disponível para garantir que os atendentes possam acessar o histórico da conversa e responder aos usuários sempre que necessário.
+**2.2** As notificações devem ser feitas através de alertas visuais e sonoros.
 
-### 3.2
-O mecanismo de redirecionamento deve ser confiável e preciso, evitando redirecionamentos indevidos ou falhas no processo.
+**3. Histórico de Conversa:**
 
-## 4. Segurança:
+**3.1** O sistema deve permitir que o atendente do suporte humano acesse o histórico completo da conversa entre o usuário e o chatbot.
 
-### 4.1
-O acesso ao histórico completo da conversa deve ser restrito aos atendentes autorizados, garantindo a confidencialidade das interações do usuário.
+**3.2** O histórico da conversa deve ser apresentado de forma clara e organizada, destacando as mensagens do usuário e do chatbot e quaisquer informações relevantes.
 
-### 4.2
-As informações transferidas do chatbot para o suporte humano devem ser criptografadas para proteger dados sensíveis.
+**4. Resposta do Atendente:**
 
-## 5. Manutenibilidade:
+**4.1** O sistema deve permitir que o atendente do suporte humano forneça uma resposta em substituição ao chatbot.
 
-### 5.1
-O sistema deve ser facilmente atualizável para acomodar mudanças no chatbot existente e nas políticas de redirecionamento.
+**4.2** O sistema deve identificar a resposta do atendente feita em substituição ao chatbot e enviá-la através do e-mail.
 
-### 5.2
-Atualizações no sistema não devem impactar negativamente a integridade e funcionalidade do histórico da conversa.
+**5. Integração:**
 
-## 6. Integração:
+**5.1** O sistema deve ser capaz de integrar-se ao chatbot existente, permitindo a troca de dados e informações relevantes.
 
-### 6.1
-A integração com o chatbot deve ser robusta, permitindo a comunicação eficaz entre os dois sistemas.
-
-### 6.2
-A troca de informações entre o chatbot e o suporte humano deve ser contínua, sem perda de dados ou inconsistências.
-
-## 7. Compatibilidade:
-
-### 7.1
-O sistema de suporte humano deve ser compatível com diferentes plataformas de e-mail para garantir a entrega eficaz das respostas do atendente.
+**5.2** A integração deve ser capaz de transferir informações do chatbot para o suporte humano de forma eficaz.
