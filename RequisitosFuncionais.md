@@ -1,33 +1,38 @@
-# REQUISITOS
+![Centro Universitário IESB]("https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102012/iesb.png?itok=Ddnx4fuy")
 
-## Requisitos de software para o sistema de suporte humano:
+# Projeto Eda - Chatbot
 
-### 1. Aprimoramento da Experiência do Usuário:
+## Resumo
 
-   1.1 Após cada interação com o chatbot, o sistema deve adicionar automaticamente uma pergunta ao final da resposta, solicitando feedback do usuário sobre a satisfação com a assistência recebida.
+Informar o objetivo do projeto
 
-   1.2 Em caso de feedback negativo, o chatbot deve oferecer ao usuário a opção de ser redirecionado para o suporte humano. O usuário deve poder aceitar ou recusar esse redirecionamento.
+## Instalação
 
-### 2. Notificação para Atendentes:
+Detalhar como um usuário pode instalar e usar o sistema
 
-   2.1 Quando um usuário aceitar o redirecionamento para o suporte humano, o sistema deve notificar um atendente do suporte sobre a necessidade de assistência.
+## Tecnologias
 
-   2.2 As notificações devem ser feitas através de alertas visuais e sonoros.
+- JavaScript
+- React
+- TypeScript
+- Node.js
+- PostgreSQL
 
-### 3. Histórico de Conversa:
+## Autores
 
-   3.1 O sistema deve permitir que o atendente do suporte humano acesse o histórico completo da conversa entre o usuário e o chatbot.
+Abaixo temos uma lista de pessoas que participam deste projeto.
 
-   3.2 O histórico da conversa deve ser apresentado de forma clara e organizada, destacando as mensagens do usuário e do chatbot e quaisquer informações relevantes.
+### Equipe 1º/2024
 
-### 4. Resposta do Atendente:
-
-   4.1 O sistema deve permitir que o atendente do suporte humano forneça uma resposta em substituição ao chatbot.
-
-   4.2 O sistema deve identificar a resposta do atendente feita em substituição ao chatbot e enviá-la através do e-mail.
-
-### 5. Integração:
-
-   5.1 O sistema deve ser capaz de integrar-se ao chatbot existente, permitindo a troca de dados e informações relevantes.
-
-   5.2 A integração deve ser capaz de transferir informações do chatbot para o suporte humano de forma eficaz.
+| Nome | Função |
+| ---- | ------ |
+| Eduardo Castro Barbosa | Desenvolvedor Backend: tecnologia nodejs |
+| Gustavo Araujo Assis de Oliveira | Dono de Produto e Analista de Requisito |
+| Gustavo de Castro Miranda| Testador e Documentador |
+| Istefani frança costa | Desenvolvedor Backend  |
+| Julya dos Santos Alfaiate | Dono de Produto e Analista de Requisitos|
+| Luís André Vieira Alonso Loli| Desenvolvedor Backend |
+| Marcos Silva Jorge | Desenvolvedor Frontend |
+| Maxwell Paulo da Silva | Desenvolvedor Frontend |
+| Rhuan Gabriel Silva Faria| Desenvolvedor Backend |
+| William Xavier Rego | Desenvolver Backend |
