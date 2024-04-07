@@ -29,10 +29,8 @@ Abaixo temos uma lista de pessoas que participam deste projeto.
 | Eduardo Castro Barbosa | Desenvolvedor Backend: tecnologia nodejs |
 | Gustavo Araujo Assis de Oliveira | Dono de Produto e Analista de Requisito |
 | Gustavo de Castro Miranda| Testador e Documentador |
-| Istefani frança costa | Desenvolvedor Backend  |
 | Julya dos Santos Alfaiate | Dono de Produto e Analista de Requisitos|
 | Luís André Vieira Alonso Loli| Desenvolvedor Backend |
 | Marcos Silva Jorge | Desenvolvedor Frontend |
-| Maxwell Paulo da Silva | Desenvolvedor Frontend |
 | Rhuan Gabriel Silva Faria| Desenvolvedor Backend |
 | William Xavier Rego | Desenvolver Backend |
